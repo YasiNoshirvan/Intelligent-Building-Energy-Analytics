@@ -183,6 +183,6 @@ There is **no public installation or demo** because the underlying project asset
 
 <div align="center">
 
-*Master's research in Data Science & Engineering · Building energy modeling · Applied ML & AI analytics*
+*Master's research and internship in Data Science & Engineering · Building energy modeling · Applied ML & AI analytics*
 
 </div>
